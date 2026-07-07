@@ -21,7 +21,7 @@ export function Navbar() {
         </div>
         <div className="flex items-center gap-1">
           <a
-            href="https://github.com/your-repo"
+            href="https://github.com/Simon77Xx/AI-Assisted-Stock-Decision-Making-System"
             target="_blank"
             rel="noopener noreferrer"
             className="text-xs text-[rgb(142,142,147)] hover:text-[rgb(29,29,31)] transition-colors px-3 py-1.5 rounded-full hover:bg-[rgb(245,245,247)]"
